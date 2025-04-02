@@ -2,7 +2,7 @@
   <div class="survey-container">
     <div class="survey-header">
       <el-icon class="header-icon"><School /></el-icon>
-      <h2 class="survey-title">家长对班主任、班级及学校满意度调查问卷</h2>
+      <h2 class="survey-title">家长满意度调查问卷</h2>
       <p class="survey-subtitle">您的意见对我们很重要</p>
     </div>
     
